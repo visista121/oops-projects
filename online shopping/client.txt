@@ -1,0 +1,6 @@
+name: visista 
+userID: visista121 
+password: vishi3214 
+phone number: 9352689569 
+cart items: [regulars, cereals, matte, deodrant, wedges, sunscreen] 
+Bill amount: 4995
